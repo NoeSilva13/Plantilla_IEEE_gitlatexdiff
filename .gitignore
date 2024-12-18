@@ -1,0 +1,6 @@
+# Ignorar todos los archivos
+*
+
+# Excepciones
+!*.tex
+!Img/
